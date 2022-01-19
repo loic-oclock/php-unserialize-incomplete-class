@@ -1,0 +1,15 @@
+{
+    "name": "pux/test-incomplete-class",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Loïc O'Clock",
+            "email": "loic@oclock.io"
+        }
+    ],
+    "require": {}
+}
